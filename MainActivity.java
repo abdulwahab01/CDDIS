@@ -1,4 +1,4 @@
-package com.example.api;
+package com.example.cddis;
 
 import android.support.v7.app.ActionBarActivity;
 import android.util.Base64;
