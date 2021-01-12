@@ -124,7 +124,7 @@ public class MainActivity extends ActionBarActivity implements View.OnClickListe
 	protected void validate() {
 		AlertDialog.Builder dialog = new AlertDialog.Builder(MainActivity.this);
 		dialog.setCancelable(false);
-		dialog.setTitle("CDIS");
+		dialog.setTitle("CDDIS");
 		dialog.setMessage("Capture a cassava leaf image");
 		dialog.setPositiveButton("Ok", new DialogInterface.OnClickListener() {
 		    @Override
